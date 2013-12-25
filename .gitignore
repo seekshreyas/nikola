@@ -20,3 +20,6 @@ __pycache__/
 
 # pyenv
 .python-version
+
+# nikola source code files
+=1.0.0
