@@ -1,8 +1,7 @@
--r requirements.txt
-mock>=1.0.0
-requests>=1.0
+mock
+requests
 markdown
-Jinja2>=2.7
+Jinja2
 bbcode
 https://github.com/lepture/python-livereload/archive/master.zip
 pyphen
@@ -12,4 +11,4 @@ pygal
 typogrify
 phpserialize
 webassets
-ipython>=1.0.0
+ipython

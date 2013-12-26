@@ -1,4 +1,3 @@
--r requirements-full.txt
 coverage
 nose
 freezegun

@@ -1,8 +1,8 @@
-doit>=0.23.0
+doit
 pygments
-pillow>=2.0.0
+pillow
 docutils
-mako>=0.6
+mako
 unidecode
 lxml
 yapsy
